@@ -30,7 +30,7 @@ _____________________________________________Folder Structure___________________
 	│    └── header.php
 	├──  cart-add.php
 	├──  cart-remove.php
-	├──  cart.php 
+	├──  cart.php    
 	├──  index.php
 	├──  lifestylestore.sql (Database of the project	)
 	├──  login.php
